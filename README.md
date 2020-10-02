@@ -9,7 +9,7 @@ I'm a software engineer with a passion for modern websites and applications that
 | Project   |      Description                                                                  | URL|
 | :-----------| :-----------------------------------------------------------------------------------| :----|
 | Staticbox |  A commenting system that retrieves comments on build time. It's fast 🚀         | [Staticbox](https://staticbox.io) |
-| SystemUI  |  A React UI Kit built for lightning-fast development and advanced customization   | [SystemUI](https://system-ui-kit.netlify.app) |
+| SystemUI  |  A React UI Kit built for lightning-fast development and advanced customization   | [SystemUI](https://systemui.netlify.app) |
 | Material Twitter | A Chrome extension for Twitter that gives it a UI refresh. Based on Google's Material Design | N/A |
 
 ### 🥂 Get Social
