@@ -15,4 +15,3 @@ I'm a software engineer with a passion for modern websites and applications that
 
 ### My Github Stats
 ![Jarod's github stats](https://github-readme-stats.vercel.app/api?username=jarodpeachey&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Jarod's github ranks](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
